@@ -1,0 +1,22 @@
+body
+{
+    background:linear-gradient(rgb(255, 0, 212),rgb(195, 0, 255),rgb(0, 8, 255),rgb(0, 204, 255))
+}
+button
+{
+    background-color: rgb(227, 42, 39);
+    color: azure;
+    border-radius: 30px;
+}
+h1{
+    color: rgb(240, 255, 247);
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: rgb(0, 255, 123);
+}
+h4{
+    color: rgb(255, 149, 0);
+}
